@@ -34,5 +34,9 @@ In this manner the run-time of the code was decreased drastically
 
 As we can see from the screenshots above the entirety of the run time for both the 2017 and 2018 analysis was done in a fraction of a second, a drastic decrease from the prior code.
 
-##
+## Summary
+
+Refactoring code is important in all situations when coding. While the instance of a code may be successful in accomplishing the original task at hand it may later fail when set up against a task that is more demanding than the one originally conceived for. Due to this refactoring code in order to optimize its efficiency is critical. This exercise was a perfect example to demonstrate how changing the thought process behind accomplishing a certain goal (in this case analyzing stock market performance) can drastically change the performance of the code. By simply changing how the code looped through the rows of the data sheet the refactored code was able to accomplish the same result in a fraction of the time.
+
+While the original code was perhaps simpler to write and understand it was vastly inferior to the refactored code when measured upon performance.
 
